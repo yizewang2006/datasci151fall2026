@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+_quizzes/quiz_1/quiz_data/StudentPerformanceFactors.csv
+_quizzes/quiz_1/quiz_data/dates.txt
+_quizzes/quiz_1/quiz_1.ipynb
+_quizzes/quiz_1.zip
+_quizzes/practice_quiz_solutions/quiz_1.ipynb
